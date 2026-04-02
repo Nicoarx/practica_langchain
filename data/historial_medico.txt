@@ -1,0 +1,136 @@
+Tipo: Historial médico completo
+Paciente: Santiago Frau
+Fecha de actualización: 2026-03-30
+Tags: salud, historial, medico
+
+========================================
+ DATOS GENERALES
+========================================
+Edad: 22
+Peso: 62 kg
+Altura: 1.72 m
+
+Hábitos:
+- Sueño: duerme entre 00:00 y 02:00, se levanta 08:00-09:00
+- Actividad física: gimnasio 5 veces por semana
+- Alimentación: no desayuna ni merienda regularmente
+- Consumo: no bebidas energéticas
+
+Antecedentes:
+- No enfermedades crónicas diagnosticadas
+- No cirugías previas
+
+========================================
+ ANÁLISIS CLÍNICOS
+========================================
+
+ Fecha: 2025-11-05
+Tipo: Análisis de sangre completo
+Laboratorio: Laboratorio Central Paraná
+
+Resultados:
+- Glucosa: 92 mg/dL → Normal
+- Colesterol total: 210 mg/dL → Alto
+- HDL: 45 mg/dL → Bajo
+- LDL: 140 mg/dL → Alto
+- Triglicéridos: 160 mg/dL → Ligeramente alto
+
+Interpretación médica:
+- Riesgo cardiovascular moderado
+- Perfil lipídico alterado
+
+Recomendaciones:
+- Reducir consumo de grasas saturadas
+- Aumentar actividad aeróbica
+- Repetir estudio en 6 meses
+
+----------------------------------------
+
+Fecha: 2026-02-20
+Tipo: Análisis de seguimiento
+
+Resultados:
+- Colesterol total: 190 mg/dL → Mejoría
+- LDL: 120 mg/dL → Mejoría
+- HDL: 50 mg/dL → Mejoría
+
+Observaciones:
+- Mejora atribuida a cambios en dieta y ejercicio
+
+========================================
+👨‍⚕️ CONSULTAS MÉDICAS
+========================================
+
+Fecha: 2026-01-12
+Profesional: Dr. Juan Pérez
+Especialidad: Clínica médica
+
+Motivo:
+- Dolores de cabeza frecuentes (3-4 veces por semana)
+
+Síntomas:
+- Dolor en zona frontal
+- Sensibilidad a la luz
+- Relacionado con uso de pantallas
+
+Diagnóstico:
+- Migraña tensional
+
+Tratamiento:
+- Ibuprofeno 400 mg (solo en episodios)
+- Reducir exposición a pantallas
+- Mejorar calidad del sueño
+
+Notas:
+- Posible relación con estrés y hábitos de sueño irregulares
+
+----------------------------------------
+
+Fecha: 2026-03-10
+Profesional: Dra. Laura Gómez
+Especialidad: Nutrición
+
+Motivo:
+- Mejorar rendimiento físico y salud general
+
+Evaluación:
+- Dieta incompleta (faltan comidas)
+- Bajo consumo de proteínas
+
+Plan:
+- Incorporar desayuno
+- Aumentar proteínas (pollo, huevo, legumbres)
+- Mantener hidratación
+
+========================================
+MEDICACIÓN
+========================================
+
+Medicamento: Ibuprofeno
+Dosis: 400 mg
+Uso: ocasional (dolor de cabeza)
+
+Medicamento: Multivitamínico
+Uso: diario (recomendado por nutricionista)
+
+========================================
+ALERTAS Y OBSERVACIONES
+========================================
+
+- Tendencia a colesterol alto
+- Falta de regularidad en comidas
+- Posible impacto del sueño en la salud
+
+========================================
+RESUMEN GENERAL
+========================================
+
+Estado actual:
+- Salud general buena
+- Mejora en perfil lipídico
+- Migrañas controladas
+
+Puntos a mejorar:
+- Dormir mejor
+- Comer más regularmente
+- Mantener ejercicio

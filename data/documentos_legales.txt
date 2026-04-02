@@ -1,0 +1,180 @@
+Tipo: Documentos legales personales
+Titular: Santiago Frau
+Fecha de actualización: 2026-03-30
+Tags: contratos, legal, finanzas
+
+====================================================
+CONTRATO DE ALQUILER
+====================================================
+
+Tipo: Vivienda
+Propiedad: Departamento 2 ambientes
+Dirección: Calle Ficticia 123, Paraná, Entre Ríos
+
+Partes:
+- Inquilino: Santiago Frau
+- Propietario: María López
+- Inmobiliaria: Gestión Urbana SRL
+
+Fechas:
+- Inicio: 01/01/2025
+- Finalización: 31/12/2026
+
+Monto:
+- Primer año: $250.000 mensuales
+- Segundo año: ajuste por IPC (Índice de Precios al Consumidor)
+
+Condiciones de pago:
+- Pago del 1 al 10 de cada mes
+- Transferencia bancaria
+
+Depósito:
+- Equivalente a 1 mes de alquiler
+
+Cláusulas importantes:
+- No se permiten mascotas sin autorización
+- Prohibido subalquilar
+- El inquilino debe hacerse cargo de servicios (luz, gas, internet)
+- Mantenimiento básico a cargo del inquilino
+
+Penalidades:
+- Mora: recargo del 5% mensual
+- Rescisión anticipada:
+   - Antes de 1 año: multa de 1 mes y medio
+   - Después de 1 año: multa de 1 mes
+
+Contacto propietario:
+- Teléfono: 343-XXXXXXX
+- Email: maria.lopez@email.com
+
+Notas:
+- Ajuste anual según inflación
+- Revisar contrato antes de renovación
+
+----------------------------------------------------
+
+PÓLIZA DE SEGURO (MOTO)
+====================================================
+
+Compañía: La Caja Seguros
+Tipo: Seguro contra terceros completo
+
+Vehículo:
+- Marca: Honda
+- Modelo: Wave 110
+- Año: 2022
+
+Cobertura:
+- Responsabilidad civil
+- Robo total
+- Incendio total
+
+Exclusiones:
+- Daños parciales
+- Uso comercial no declarado
+
+Vigencia:
+- Desde: 01/06/2025
+- Hasta: 01/06/2026
+
+Costo:
+- $18.000 mensuales
+
+Franquicia:
+- $50.000 en caso de siniestro
+
+Condiciones:
+- Pago automático por débito
+- Cancelación por falta de pago después de 30 días
+
+Contacto:
+- Atención al cliente: 0800-XXX
+- Web: www.lacaja.com.ar
+
+Notas:
+- Verificar renovación automática
+- Revisar cobertura antes de viajes largos
+
+----------------------------------------------------
+
+CONTRATO DE SERVICIO (INTERNET)
+====================================================
+
+Proveedor: Fibertel
+Plan: 300 Mbps
+
+Titular: Santiago Frau
+
+Condiciones:
+- Velocidad máxima teórica: 300 Mbps
+- Servicio sujeto a disponibilidad técnica
+
+Costo:
+- $12.000 mensuales (promoción 12 meses)
+- Luego: $18.000
+
+Duración:
+- Contrato mínimo: 12 meses
+
+Penalidades:
+- Cancelación anticipada: multa proporcional
+
+Incluye:
+- Router WiFi
+- Soporte técnico
+
+Problemas comunes:
+- Caídas de conexión
+- Latencia alta en horarios pico
+
+Soporte:
+- Teléfono: 0800-XXX
+- App móvil
+
+----------------------------------------------------
+
+DOCUMENTO LEGAL (COMPRA)
+====================================================
+
+Tipo: Compra de notebook
+
+Producto:
+- Marca: Lenovo
+- Modelo: IdeaPad 3
+
+Fecha de compra:
+- 10/08/2025
+
+Precio:
+- $850.000
+
+Garantía:
+- 12 meses
+
+Condiciones:
+- Cubre fallas de fábrica
+- No cubre daños por uso indebido
+
+Factura:
+- Número: 0001-00012345
+
+Vendedor:
+- TiendaTech SRL
+
+Notas:
+- Guardar factura digital
+- Contactar garantía ante fallas
+
+====================================================
+RESUMEN GENERAL
+====================================================
+
+Activos:
+- Contrato de alquiler vigente hasta 2026
+- Seguro de moto activo
+- Servicio de internet activo
+
+Alertas:
+- Revisar aumento de alquiler en 2026
+- Seguro vence en junio 2026
+- Promoción de internet vence en 12 meses

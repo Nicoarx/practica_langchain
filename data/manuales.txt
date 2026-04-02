@@ -1,0 +1,216 @@
+Tipo: Manuales e instrucciones de equipos
+Propietario: Santiago Frau
+Fecha de actualización: 2026-03-30
+Tags: manuales, dispositivos, mantenimiento
+
+====================================================
+DISPOSITIVO: NOTEBOOK (Lenovo IdeaPad 3)
+====================================================
+
+Especificaciones:
+- Procesador: Ryzen 5
+- RAM: 8GB
+- Almacenamiento: SSD 256GB
+
+Uso recomendado:
+- Programación (C++, Node.js)
+- Navegación web
+- Uso general
+
+----------------------------------------
+MANTENIMIENTO
+
+- Limpiar ventiladores cada 6 meses
+- No usar sobre superficies blandas (cama, sillón)
+- Mantener actualizado el sistema operativo
+
+----------------------------------------
+PROBLEMAS COMUNES
+
+Problema: Se calienta mucho
+Solución:
+- Limpiar ventilación
+- Usar base refrigerante
+- Cerrar programas pesados
+
+Problema: Va lenta
+Solución:
+- Revisar procesos en segundo plano
+- Liberar espacio en disco
+- Reiniciar sistema
+
+Problema: Batería dura poco
+Solución:
+- Reducir brillo
+- Cerrar apps innecesarias
+
+----------------------------------------
+RESET / FORMATEO
+
+Pasos:
+1. Backup de archivos importantes
+2. Ir a configuración → recuperación
+3. Restaurar sistema
+
+Notas:
+- Hacerlo solo si hay problemas graves
+
+====================================================
+DISPOSITIVO: ROUTER WIFI
+====================================================
+
+Modelo: Router estándar proveedor internet
+
+----------------------------------------
+CONFIGURACIÓN INICIAL
+
+1. Conectar router a corriente
+2. Conectar cable WAN
+3. Acceder a 192.168.0.1
+4. Usuario/clave: admin/admin
+5. Configurar nombre de red (SSID)
+6. Configurar contraseña
+
+----------------------------------------
+PROBLEMAS COMUNES
+
+Problema: No hay internet
+Solución:
+- Reiniciar router
+- Verificar cables
+- Contactar proveedor
+
+Problema: WiFi lento
+Solución:
+- Reiniciar
+- Cambiar canal WiFi
+- Reducir dispositivos conectados
+
+----------------------------------------
+RESET
+
+1. Mantener botón reset 10 segundos
+2. Reconfigurar desde cero
+
+Notas:
+- Pierde configuración guardada
+
+====================================================
+DISPOSITIVO: SMART TV
+====================================================
+
+Marca: Samsung
+Tamaño: 50"
+
+----------------------------------------
+FUNCIONES
+
+- Netflix
+- YouTube
+- Screen Mirroring
+
+----------------------------------------
+CONEXIÓN A WIFI
+
+1. Ir a configuración
+2. Red → WiFi
+3. Seleccionar red
+4. Ingresar contraseña
+
+----------------------------------------
+PROBLEMAS
+
+Problema: No conecta a WiFi
+Solución:
+- Reiniciar TV
+- Reiniciar router
+- Verificar contraseña
+
+Problema: Apps lentas
+Solución:
+- Cerrar apps
+- Reiniciar TV
+- Actualizar software
+
+----------------------------------------
+ACTUALIZACIÓN
+
+- Configuración → soporte → actualización de software
+
+====================================================
+EQUIPO: MOTO (Honda Wave 110)
+====================================================
+
+----------------------------------------
+MANTENIMIENTO
+
+- Cambio de aceite cada 3000 km
+- Revisar frenos regularmente
+- Controlar presión de neumáticos
+
+----------------------------------------
+PROBLEMAS
+
+Problema: No arranca
+Solución:
+- Revisar batería
+- Verificar combustible
+
+Problema: Hace ruido extraño
+Solución:
+- Revisar motor
+- Llevar a mecánico
+
+----------------------------------------
+NOTAS
+
+- Usar casco siempre
+- Mantener papeles al día
+
+====================================================
+DISPOSITIVO: PC DE ESCRITORIO
+====================================================
+
+Uso:
+- Programación
+- Juegos
+
+----------------------------------------
+MANTENIMIENTO
+
+- Limpiar polvo cada 3-6 meses
+- Revisar temperatura CPU/GPU
+
+----------------------------------------
+PROBLEMAS
+
+Problema: PC no prende
+Solución:
+- Revisar fuente
+- Verificar cables
+
+Problema: Bajo rendimiento
+Solución:
+- Cerrar programas
+- Actualizar drivers
+
+====================================================
+RESUMEN GENERAL
+====================================================
+
+Equipos principales:
+- Notebook
+- Router
+- TV
+- Moto
+- PC
+
+Problemas frecuentes:
+- Sobrecalentamiento
+- Conectividad
+- Rendimiento
+
+Acciones clave:
+- Reiniciar dispositivos
+- Mantener limpieza
+- Actualizar software
