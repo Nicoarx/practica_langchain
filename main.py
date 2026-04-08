@@ -124,14 +124,14 @@ else:
     print("\n[PASO 2] Dividiendo documentos en fragmentos (chunks)...")
 
     text_splitter = RecursiveCharacterTextSplitter(
-        chunk_size=400,
-        chunk_overlap=150
+        chunk_size=150,
+        chunk_overlap=50
     )
 
     documents = text_splitter.split_documents(raw_documents)
 
     print(f"[INFO] Fragmentos (chunks) generados: {len(documents)}")
-    print(f"[INFO] Tamaño de chunk: 800 chars | Overlap: 150 chars")
+    print(f"[INFO] Tamaño de chunk: 150 chars | Overlap: 50 chars")
 
     # PASO 4 — Crear y persistir la base vectorial
     print("\n[PASO 4] Creando la base vectorial en disco...")
@@ -156,7 +156,7 @@ else:
 # Esta consulta será convertida en embedding y se usará para
 # buscar documentos similares en la base vectorial.
 
-query = "definicion pase a dieciseisavos 16vos" # Consulta definida directamente
+query = "¿en que fecha realice el ultimo analisis?" # Consulta definida directamente
 
 print("\n[PASO 5] Processing user query...")
 print(f"[QUERY] {query}")

@@ -1,0 +1,448 @@
+SEGURO DE MOTOS
+
+id: ID-10925210
+codigo electronico de pago: 6345730512696942
+monto factura: $13.031,00
+fecha de vencimiento: 21/05/2025
+Fecha de pago: 18/05/2025
+
+id: ID-10925210
+codigo electronico de pago: 7867344956238359
+monto factura: $18.345,00
+fecha de vencimiento: 15/06/2025
+Fecha de pago: 12/06/2025
+
+id: ID-10925210
+codigo electronico de pago: 4109147153137026
+monto factura: $18.576,00
+fecha de vencimiento: 17/07/2025
+Fecha de pago: 13/07/2025
+
+id: ID-10925210
+codigo electronico de pago: 0640383076724637
+monto factura: $9.720,00
+fecha de vencimiento: 18/08/2025
+Fecha de pago: 17/08/2025
+
+id: ID-10925210
+codigo electronico de pago: 5148508895752067
+monto factura: $13.808,00
+fecha de vencimiento: 14/09/2025
+Fecha de pago: 09/09/2025
+
+id: ID-10925210
+codigo electronico de pago: 5184319969714220
+monto factura: $18.255,00
+fecha de vencimiento: 13/10/2025
+Fecha de pago: 10/10/2025
+
+id: ID-10925210
+codigo electronico de pago: 4160033043956502
+monto factura: $17.438,00
+fecha de vencimiento: 16/11/2025
+Fecha de pago: 11/11/2025
+
+id: ID-10925210
+codigo electronico de pago: 4436556383528805
+monto factura: $16.546,00
+fecha de vencimiento: 15/12/2025
+Fecha de pago: 14/12/2025
+
+id: ID-10925210
+codigo electronico de pago: 8946566870175793
+monto factura: $9.358,00
+fecha de vencimiento: 15/01/2026
+Fecha de pago: 10/01/2026
+
+id: ID-10925210
+codigo electronico de pago: 5091792147055507
+monto factura: $9.001,00
+fecha de vencimiento: 11/02/2026
+Fecha de pago: 12/02/2026
+
+id: ID-10925210
+codigo electronico de pago: 4057287661540916
+monto factura: $11.245,00
+fecha de vencimiento: 14/03/2026
+Fecha de pago: 14/03/2026
+
+id: ID-10925210
+codigo electronico de pago: 5988526360699522
+monto factura: $12.338,00
+fecha de vencimiento: 12/04/2026
+Fecha de pago: 11/04/2026
+
+
+SERVICIO DE GAS
+
+id: ID-34976987
+codigo electronico de pago: 9775775587036816
+monto factura: $19.085,00
+fecha de vencimiento: 13/05/2025
+Fecha de pago: 11/05/2025
+
+id: ID-34976987
+codigo electronico de pago: 2020903650950753
+monto factura: $13.260,00
+fecha de vencimiento: 16/06/2025
+Fecha de pago: 11/06/2025
+
+id: ID-34976987
+codigo electronico de pago: 2009170372284397
+monto factura: $19.822,00
+fecha de vencimiento: 13/07/2025
+Fecha de pago: 13/07/2025
+
+id: ID-34976987
+codigo electronico de pago: 0668858299576587
+monto factura: $17.988,00
+fecha de vencimiento: 12/08/2025
+Fecha de pago: 10/08/2025
+
+id: ID-34976987
+codigo electronico de pago: 6139985726009419
+monto factura: $13.902,00
+fecha de vencimiento: 14/09/2025
+Fecha de pago: 13/09/2025
+
+id: ID-34976987
+codigo electronico de pago: 7695199421956604
+monto factura: $25.968,00
+fecha de vencimiento: 13/10/2025
+Fecha de pago: 09/10/2025
+
+id: ID-34976987
+codigo electronico de pago: 7136572854095125
+monto factura: $20.390,00
+fecha de vencimiento: 11/11/2025
+Fecha de pago: 07/11/2025
+
+id: ID-34976987
+codigo electronico de pago: 5237270898902465
+monto factura: $18.149,00
+fecha de vencimiento: 08/12/2025
+Fecha de pago: 12/12/2025
+
+id: ID-34976987
+codigo electronico de pago: 7199252019494495
+monto factura: $19.727,00
+fecha de vencimiento: 10/01/2026
+Fecha de pago: 07/01/2026
+
+id: ID-34976987
+codigo electronico de pago: 0838533322344221
+monto factura: $20.044,00
+fecha de vencimiento: 10/02/2026
+Fecha de pago: 08/02/2026
+
+id: ID-34976987
+codigo electronico de pago: 7138186839742016
+monto factura: $21.537,00
+fecha de vencimiento: 08/03/2026
+Fecha de pago: 09/03/2026
+
+id: ID-34976987
+codigo electronico de pago: 0650704057584740
+monto factura: $23.857,00
+fecha de vencimiento: 09/04/2026
+Fecha de pago: 07/04/2026
+
+
+SERVICIO DE INTERNET
+
+id: ID-48062544
+codigo electronico de pago: 5377859284876593
+monto factura: $30.060,00
+fecha de vencimiento: 06/05/2025
+Fecha de pago: 02/05/2025
+
+id: ID-48062544
+codigo electronico de pago: 8020784810336241
+monto factura: $32.451,00
+fecha de vencimiento: 10/06/2025
+Fecha de pago: 11/06/2025
+
+id: ID-48062544
+codigo electronico de pago: 8178027092899324
+monto factura: $31.037,00
+fecha de vencimiento: 05/07/2025
+Fecha de pago: 06/07/2025
+
+id: ID-48062544
+codigo electronico de pago: 2762801073941268
+monto factura: $38.572,00
+fecha de vencimiento: 06/08/2025
+Fecha de pago: 09/08/2025
+
+id: ID-48062544
+codigo electronico de pago: 4554104958491936
+monto factura: $37.379,00
+fecha de vencimiento: 06/09/2025
+Fecha de pago: 02/09/2025
+
+id: ID-48062544
+codigo electronico de pago: 4847060412347273
+monto factura: $35.192,00
+fecha de vencimiento: 07/10/2025
+Fecha de pago: 05/10/2025
+
+id: ID-48062544
+codigo electronico de pago: 1182235625900971
+monto factura: $34.988,00
+fecha de vencimiento: 06/11/2025
+Fecha de pago: 07/11/2025
+
+id: ID-48062544
+codigo electronico de pago: 5507804151095995
+monto factura: $40.703,00
+fecha de vencimiento: 04/12/2025
+Fecha de pago: 03/12/2025
+
+id: ID-48062544
+codigo electronico de pago: 9075748415434437
+monto factura: $30.607,00
+fecha de vencimiento: 05/01/2026
+Fecha de pago: 31/12/2025
+
+id: ID-48062544
+codigo electronico de pago: 5856579794000111
+monto factura: $38.573,00
+fecha de vencimiento: 03/02/2026
+Fecha de pago: 31/01/2026
+
+id: ID-48062544
+codigo electronico de pago: 1738857068369545
+monto factura: $37.277,00
+fecha de vencimiento: 05/03/2026
+Fecha de pago: 08/03/2026
+
+id: ID-48062544
+codigo electronico de pago: 1568575618074192
+monto factura: $29.583,00
+fecha de vencimiento: 03/04/2026
+Fecha de pago: 04/04/2026
+
+
+SERVICIO DE LUZ
+
+id: ID-57422038
+codigo electronico de pago: 4677552569531235
+monto factura: $23.001,00
+fecha de vencimiento: 15/05/2025
+Fecha de pago: 14/05/2025
+
+id: ID-57422038
+codigo electronico de pago: 9056866582263866
+monto factura: $19.416,00
+fecha de vencimiento: 18/06/2025
+Fecha de pago: 18/06/2025
+
+id: ID-57422038
+codigo electronico de pago: 4939271527712434
+monto factura: $16.935,00
+fecha de vencimiento: 16/07/2025
+Fecha de pago: 11/07/2025
+
+id: ID-57422038
+codigo electronico de pago: 1560398651519948
+monto factura: $33.196,00
+fecha de vencimiento: 16/08/2025
+Fecha de pago: 16/08/2025
+
+id: ID-57422038
+codigo electronico de pago: 4260664740870193
+monto factura: $23.176,00
+fecha de vencimiento: 16/09/2025
+Fecha de pago: 15/09/2025
+
+id: ID-57422038
+codigo electronico de pago: 1046264692786007
+monto factura: $26.344,00
+fecha de vencimiento: 16/10/2025
+Fecha de pago: 13/10/2025
+
+id: ID-57422038
+codigo electronico de pago: 9934909797092817
+monto factura: $28.815,00
+fecha de vencimiento: 12/11/2025
+Fecha de pago: 08/11/2025
+
+id: ID-57422038
+codigo electronico de pago: 1367089055397259
+monto factura: $20.586,00
+fecha de vencimiento: 15/12/2025
+Fecha de pago: 18/12/2025
+
+id: ID-57422038
+codigo electronico de pago: 1518842364443477
+monto factura: $18.575,00
+fecha de vencimiento: 12/01/2026
+Fecha de pago: 16/01/2026
+
+id: ID-57422038
+codigo electronico de pago: 0448782530017539
+monto factura: $20.221,00
+fecha de vencimiento: 09/02/2026
+Fecha de pago: 05/02/2026
+
+id: ID-57422038
+codigo electronico de pago: 4301323186997008
+monto factura: $18.881,00
+fecha de vencimiento: 15/03/2026
+Fecha de pago: 15/03/2026
+
+id: ID-57422038
+codigo electronico de pago: 3165626985151217
+monto factura: $20.080,00
+fecha de vencimiento: 12/04/2026
+Fecha de pago: 11/04/2026
+
+
+TASA IMPUESTO INMOBILIARIO
+
+id: 5643-866542-36
+codigo electronico de pago: 2025294789374046
+monto factura: $34.320,00
+fecha de vencimiento: 13/05/2025
+Fecha de pago: 11/05/2025
+
+id: 5643-866542-36
+codigo electronico de pago: 5917746643718996
+monto factura: $27.363,00
+fecha de vencimiento: 10/06/2025
+Fecha de pago: 07/06/2025
+
+id: 5643-866542-36
+codigo electronico de pago: 9899673372915878
+monto factura: $27.875,00
+fecha de vencimiento: 11/07/2025
+Fecha de pago: 12/07/2025
+
+id: 5643-866542-36
+codigo electronico de pago: 6725569516322588
+monto factura: $23.453,00
+fecha de vencimiento: 10/08/2025
+Fecha de pago: 10/08/2025
+
+id: 5643-866542-36
+codigo electronico de pago: 8828322108758026
+monto factura: $32.988,00
+fecha de vencimiento: 05/09/2025
+Fecha de pago: 04/09/2025
+
+id: 5643-866542-36
+codigo electronico de pago: 8577394870153464
+monto factura: $21.620,00
+fecha de vencimiento: 09/10/2025
+Fecha de pago: 08/10/2025
+
+id: 5643-866542-36
+codigo electronico de pago: 1678942826243425
+monto factura: $29.331,00
+fecha de vencimiento: 09/11/2025
+Fecha de pago: 04/11/2025
+
+id: 5643-866542-36
+codigo electronico de pago: 8756808748361236
+monto factura: $31.720,00
+fecha de vencimiento: 07/12/2025
+Fecha de pago: 09/12/2025
+
+id: 5643-866542-36
+codigo electronico de pago: 1200135562484333
+monto factura: $34.429,00
+fecha de vencimiento: 04/01/2026
+Fecha de pago: 31/12/2025
+
+id: 5643-866542-36
+codigo electronico de pago: 6168222213807968
+monto factura: $29.361,00
+fecha de vencimiento: 05/02/2026
+Fecha de pago: 05/02/2026
+
+id: 5643-866542-36
+codigo electronico de pago: 6869173505050349
+monto factura: $26.804,00
+fecha de vencimiento: 05/03/2026
+Fecha de pago: 02/03/2026
+
+id: 5643-866542-36
+codigo electronico de pago: 5604857920355353
+monto factura: $25.726,00
+fecha de vencimiento: 05/04/2026
+Fecha de pago: 05/04/2026
+
+
+TASA IMPUESTO PROVINCIAL
+
+id: 2763-294263-92
+codigo electronico de pago: 1971679836273636
+monto factura: $41.576,00
+fecha de vencimiento: 12/05/2025
+Fecha de pago: 14/05/2025
+
+id: 2763-294263-92
+codigo electronico de pago: 9107736052402764
+monto factura: $39.114,00
+fecha de vencimiento: 09/06/2025
+Fecha de pago: 06/06/2025
+
+id: 2763-294263-92
+codigo electronico de pago: 1424378125689786
+monto factura: $25.918,00
+fecha de vencimiento: 10/07/2025
+Fecha de pago: 05/07/2025
+
+id: 2763-294263-92
+codigo electronico de pago: 4728374439261041
+monto factura: $22.466,00
+fecha de vencimiento: 11/08/2025
+Fecha de pago: 06/08/2025
+
+id: 2763-294263-92
+codigo electronico de pago: 6756333366891409
+monto factura: $46.909,00
+fecha de vencimiento: 09/09/2025
+Fecha de pago: 10/09/2025
+
+id: 2763-294263-92
+codigo electronico de pago: 7538680450353479
+monto factura: $28.593,00
+fecha de vencimiento: 11/10/2025
+Fecha de pago: 08/10/2025
+
+id: 2763-294263-92
+codigo electronico de pago: 1192592095312053
+monto factura: $32.489,00
+fecha de vencimiento: 11/11/2025
+Fecha de pago: 08/11/2025
+
+id: 2763-294263-92
+codigo electronico de pago: 4034592768178014
+monto factura: $34.400,00
+fecha de vencimiento: 11/12/2025
+Fecha de pago: 11/12/2025
+
+id: 2763-294263-92
+codigo electronico de pago: 9923100713358326
+monto factura: $40.108,00
+fecha de vencimiento: 06/01/2026
+Fecha de pago: 01/01/2026
+
+id: 2763-294263-92
+codigo electronico de pago: 7116601663202636
+monto factura: $24.218,00
+fecha de vencimiento: 08/02/2026
+Fecha de pago: 04/02/2026
+
+id: 2763-294263-92
+codigo electronico de pago: 5280895583374212
+monto factura: $25.951,00
+fecha de vencimiento: 10/03/2026
+Fecha de pago: 05/03/2026
+
+id: 2763-294263-92
+codigo electronico de pago: 4479361751266723
+monto factura: $37.907,00
+fecha de vencimiento: 09/04/2026
+Fecha de pago: 11/04/2026
